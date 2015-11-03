@@ -1,0 +1,49 @@
+/* Color Pallette 
+#ABABAB
+#00A2CF
+#D9003E
+
+Heading and Body
+font-family: 'Playfair Display', serif;
+
+linear-gradient(left, rgb(142, 158, 171), rgb(238, 242, 243)); background-color: rgb(255, 255, 255)
+*/
+
+/* Global */
+body {
+    background: -webkit-linear-gradient(top, rgb(81, 127, 164), rgb(36, 57, 73)); background-color: rgb(255, 255, 255);" 
+    
+}
+
+/* Typography */
+
+
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    color: #F2C6B6;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 1.75em;
+}
+
+p, blockquote {
+    font-family: 'Playfair Display', serif;
+    color: #D9D9D9;
+    line-height: 1.75em;
+    letter-spacing: .5px;
+}
+
+blockquote {
+    
+}
